@@ -1,0 +1,31 @@
+{
+  "name": "BRLP",
+  "symbol": "BRLP",
+  "issuer": "PagFinance",
+  "environment": "mainnet",
+  "source": "https://brlp.money",
+  "networks": [
+    {
+      "name": "Solana",
+      "cluster": "mainnet-beta",
+      "address": "7iUmRZ4CexRF1SG1V8Bt8zpCT1BsCqtCawhgX5gCDFAW",
+      "decimals": 6,
+      "explorer": "https://solscan.io/token/7iUmRZ4CexRF1SG1V8Bt8zpCT1BsCqtCawhgX5gCDFAW"
+    },
+    {
+      "name": "BNB Smart Chain",
+      "chainId": 56,
+      "address": "0x7cE3b8F59c645AEDE72FC4a2bb9dA436f5FA3f36",
+      "decimals": 6,
+      "explorer": "https://bscscan.com/token/0x7cE3b8F59c645AEDE72FC4a2bb9dA436f5FA3f36"
+    },
+    {
+      "name": "Stellar",
+      "network": "public",
+      "assetCode": "BRLP",
+      "issuer": "GDD3ZAU3GHMI44VCMXED2JHJ6ZBO33GQGXAJPNMTASIC24ZMNSQYNPRF",
+      "decimals": 7,
+      "explorer": "https://stellar.expert/explorer/public/asset/BRLP-GDD3ZAU3GHMI44VCMXED2JHJ6ZBO33GQGXAJPNMTASIC24ZMNSQYNPRF-1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "BRLP",
+  "symbol": "BRLP",
+  "description": "$BRLP is the official PagFinance stablecoin, fully backed 1:1 by the Brazilian Real (BRL). Available across multiple blockchains, it employs on-chain mint and burn mechanisms for auditable transparency, with each $BRLP representing one fiat real held in custody. Beyond powering payments, settlements, and transfers across the PagFinance ecosystem, $BRLP serves as a building block for DeFi: liquidity pools, swaps, collateral, and yield strategies, as well as treasury management and cross-border flows. $BRLP stands as a transparent and permanent digital asset, bridging traditional finance and Web3 innovation from Brazil to the world.",
+  "short_description": "$BRLP is PagFinance's stablecoin, fully backed 1:1 by the Brazilian Real. A multichain asset for payments, settlements, and DeFi, with auditable on-chain mint and burn.",
+  "ultra_short_description": "Brazilian Real stablecoin by PagFinance, backed 1:1, built for payments and DeFi across multiple chains.",
+  "external_url": "https://brlp.money",
+  "image": "https://zrmhagkkw5sllz7hvqqdvcaeu6hd3wggkrto6hhk346vc7w5lmtq.arweave.net/zFhwGUq3ZLXn56wgOogEp4492MZUZu8c6t89UX7dWyc",
+  "attributes": [
+    {
+      "trait_type": "Token Standard",
+      "value": "Token-2022"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Stablecoin"
+    },
+    {
+      "trait_type": "Peg",
+      "value": "BRL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "6"
+    },
+    {
+      "trait_type": "Backing",
+      "value": "1:1 Fiat"
+    }
+  ],
+  "properties": {
+    "category": "currency",
+    "files": [
+      {
+        "uri": "https://zrmhagkkw5sllz7hvqqdvcaeu6hd3wggkrto6hhk346vc7w5lmtq.arweave.net/zFhwGUq3ZLXn56wgOogEp4492MZUZu8c6t89UX7dWyc",
+        "type": "image/png"
+      }
+    ]
+  },
+  "tags": [
+    "stablecoin",
+    "currency",
+    "brl",
+    "brazilian-real",
+    "fiat-backed",
+    "payments",
+    "pagcrypto"
+  ],
+  "extensions": {
+    "website": "https://brlp.money",
+    "twitter": "https://x.com/BRLPMoney",
+    "telegram": "https://t.me/BRLP_Money",
+    "discord": "https://discord.gg/55UHmH7FAa",
+    "instagram": "https://instagram.com/brlp.money"
+  }
+}
