@@ -1,0 +1,36 @@
+{
+  "name": "Brazilian Real Stablecoin",
+  "timestamp": "2026-09-29T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "brlp",
+    "stablecoin",
+    "brl",
+    "pagfinance",
+    "real"
+  ],
+  "logoURI": "https://github.com/brlp-money/brlp-assets/blob/main/logo.png",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x7cE3b8F59c645AEDE72FC4a2bb9dA436f5FA3f36",
+      "name": "BRLP",
+      "symbol": "BRLP",
+      "decimals": 6,
+      "logoURI": "https://github.com/brlp-money/brlp-assets/blob/main/logo.png",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Token fully backed 1:1 by the Brazilian Real, BRL."
+    }
+  }
+}
